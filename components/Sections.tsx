@@ -302,7 +302,7 @@ export function CTA() {
         <span className="section-label" style={{ color: "var(--gold)" }}>Let&apos;s Talk</span>
         <h2>Get Your <em>No-Obligation</em> Cash Offer Today</h2>
         <p>Call or text us — we respond within minutes during business hours. Or scroll up to submit your address and we&apos;ll get back to you within 24 hours.</p>
-        <a href="tel:6194732033" className="cta-phone">(619) 473-2033</a>
+        <a href="tel:6195144018" className="cta-phone">(619) 514-4018</a>
         <div className="cta-row">
           <a href="#contact" className="btn-primary">Get My Cash Offer →</a>
           <a href="mailto:info@iterumhomes.com" className="btn-outline" style={{ borderColor: "rgba(255,255,255,0.2)", color: "white" }}>

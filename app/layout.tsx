@@ -77,7 +77,7 @@ const jsonLd = {
   description:
     "Cash home buyers serving all of San Diego County. We buy houses fast in any condition with no fees, no repairs, and no agents.",
   url: SITE_URL,
-  telephone: "+1-619-473-2033",
+  telephone: "+1-619-514-4018",
   email: "info@iterumhomes.com",
   priceRange: "$$",
   areaServed: {
