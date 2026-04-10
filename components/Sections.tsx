@@ -169,9 +169,7 @@ export function Testimonials() {
 export function Situations() {
   const items = [
     "Facing Foreclosure", "Going Through Divorce", "Inherited Property",
-    "Major Repairs Needed", "Relocating for Work", "Vacant or Abandoned",
-    "Behind on Payments", "Tired of Being a Landlord", "Tax Liens or Code Violations",
-    "Downsizing", "Fire or Storm Damage", "Simply Need to Sell Fast",
+    "Major Repairs Needed", "Behind on Payments", "Simply Need to Sell Fast",
   ];
   return (
     <section className="site-section situations" id="situations">
